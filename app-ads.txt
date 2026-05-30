@@ -2,6 +2,9 @@
 #Appodeal
 appodeal.com, 260403, DIRECT
 
+#AdMob - ArchiveLab
+google.com, pub-5026465843548777, DIRECT, f08c47fec0942fa0
+
 #BidMachine
 bidmachine.io,1,DIRECT
 bidmachine.io,466,DIRECT
